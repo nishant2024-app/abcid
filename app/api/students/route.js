@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": ""
     },
     {
+      "abcId": "971633689896",
+      "debId": "052501983867",
+      "studentName": "Mukta Sandip Upadhye",
+      "dateOfBirth": "29\/10\/2004",
+      "mobileNumber": "7822804307"
+    },
+    {
       "abcId": "539037446619",
       "debId": "052501980260",
       "studentName": "Mangesh Suresh Khandare",
@@ -577,7 +584,8 @@ export async function GET() {
       "abcId": "570999340217",
       "debId": "052501980396",
       "studentName": "Vaishnavi Lobha Ingle",
-      "dateOfBirth": "18\/10\/1999"
+      "dateOfBirth": "18\/10\/1999",
+      "mobileNumber": "9130794073"
     },
     {
       "abcId": "616375992158",
@@ -1205,7 +1213,8 @@ export async function GET() {
       "abcId": "724567746974",
       "debId": "082400115665",
       "studentName": "Prasad Sanjay Sonar",
-      "dateOfBirth": "12\/07\/2005"
+      "dateOfBirth": "12\/07\/2005",
+      "mobileNumber": "7350778243"
     },
     {
       "abcId": "481911180409",
