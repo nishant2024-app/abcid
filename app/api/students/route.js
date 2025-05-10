@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "531938940779",
+      "debId": "052501980451",
+      "studentName": "Nishant Bhimrao Rathod",
+      "dateOfBirth": "30\/06\/2005",
+      "mobileNumber": "9356349833"
+    },
+    {
       "abcId": "971633689896",
       "debId": "052501983867",
       "studentName": "Mukta Sandip Upadhye",
