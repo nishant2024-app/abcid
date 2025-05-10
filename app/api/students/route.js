@@ -106,7 +106,8 @@ export async function GET() {
       "abcId": "992382169798",
       "debId": "052501980435",
       "studentName": "Shyam Dhanraj Alate",
-      "dateOfBirth": "22\/11\/2000"
+      "dateOfBirth": "22\/11\/2000",
+      "mobileNumber": "9370530900"
     },
     {
       "abcId": "822330465596",
