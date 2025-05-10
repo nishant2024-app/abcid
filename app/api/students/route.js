@@ -16,7 +16,7 @@ export async function GET() {
       "debId": "052501980451",
       "studentName": "Nishant Bhimrao Rathod",
       "dateOfBirth": "30\/06\/2005",
-      "mobileNumber": "9356349833"
+      "mobileNumber": "9325193264"
     },
     {
       "abcId": "971633689896",
