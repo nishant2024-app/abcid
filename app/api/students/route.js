@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": ""
     },
     {
+      "abcId": "539037446619",
+      "debId": "052501980260",
+      "studentName": "Mangesh Suresh Khandare",
+      "dateOfBirth": "12\/03\/1991",
+      "mobileNumber": "9011473024"
+    },
+    {
       "abcId": "551636378706",
       "debId": "052501983811",
       "studentName": "Chetan Shantaram Rumane",
