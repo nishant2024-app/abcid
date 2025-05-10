@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "347559064141",
+      "debId": "052501984249",
+      "studentName": "Nilesh Bhikaji Bhagat",
+      "dateOfBirth": "05\/04\/1997",
+      "mobileNumber": "7448239365"
+    },
+    {
       "abcId": "612261081554",
       "debId": "052501984243",
       "studentName": "Aakash Shrikrushna Manwar",
