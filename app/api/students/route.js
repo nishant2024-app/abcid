@@ -287,7 +287,8 @@ export async function GET() {
       "abcId": "997319429928",
       "debId": "052501980409",
       "studentName": "Sakshi Vilas Budhe",
-      "dateOfBirth": "02\/10\/2003"
+      "dateOfBirth": "02\/10\/2003",
+      "mobileNumber": "8888939009"
     },
     {
       "abcId": "101624690860",
@@ -371,7 +372,8 @@ export async function GET() {
       "abcId": "662224796927",
       "debId": "052501980366",
       "studentName": "Aditya Rajendra Sonone",
-      "dateOfBirth": "17\/07\/2001"
+      "dateOfBirth": "17\/07\/2001",
+      "mobileNumber": "9359895820"
     },
     {
       "abcId": "354639005771",
@@ -479,7 +481,8 @@ export async function GET() {
       "abcId": "149073255486",
       "debId": "052501980384",
       "studentName": "BHAGAT APARNA SHIRISH",
-      "dateOfBirth": "12\/06\/1995"
+      "dateOfBirth": "12\/06\/1995",
+      "mobileNumber": "9689743323"
     },
     {
       "abcId": "213751611234",
@@ -998,7 +1001,8 @@ export async function GET() {
       "abcId": "557752377566",
       "debId": "052501980215",
       "studentName": "Mohit Vijay Dahatonde",
-      "dateOfBirth": "19\/04\/2005"
+      "dateOfBirth": "19\/04\/2005",
+      "mobileNumber": "9699658322"
     },
     {
       "abcId": "389782298859",
@@ -1400,7 +1404,8 @@ export async function GET() {
       "abcId": "591879486448",
       "debId": "052501979995",
       "studentName": "Yash Gajanan Khirade",
-      "dateOfBirth": "03\/08\/2006"
+      "dateOfBirth": "03\/08\/2006",
+      "mobileNumber": "7020034978"
     },
     {
       "abcId": "156366978796",
@@ -1598,7 +1603,8 @@ export async function GET() {
       "abcId": "416716593982",
       "debId": "052501979992",
       "studentName": "Ashwini Gajanan Tayade",
-      "dateOfBirth": "06\/04\/2006"
+      "dateOfBirth": "06\/04\/2006",
+      "mobileNumber": "7218773324"
     },
     {
       "abcId": "591879486448",
@@ -1634,7 +1640,8 @@ export async function GET() {
       "abcId": "962748540557",
       "debId": "052501980003",
       "studentName": "Sujata Sanjay Bhagat",
-      "dateOfBirth": "01\/01\/2006"
+      "dateOfBirth": "01\/01\/2006",
+      "mobileNumber": "7498289479"
     },
     {
       "abcId": "864652494828",
