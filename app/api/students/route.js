@@ -12,6 +12,76 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "773765840557",
+      "debId": "052501984234",
+      "studentName": "Sahil Kanhaiya Garve",
+      "dateOfBirth": "07\/07\/2005",
+      "mobileNumber": "7741839747"
+    },
+    {
+      "abcId": "773765840557",
+      "debId": "052501984234",
+      "studentName": "Sahil Kanhaiya Garve",
+      "dateOfBirth": "07\/07\/2005",
+      "mobileNumber": "7741839747"
+    },
+    {
+      "abcId": "466642934231",
+      "debId": "052501984225",
+      "studentName": "Suvarna Pawan Date",
+      "dateOfBirth": "07\/12\/1998",
+      "mobileNumber": "9284356106"
+    },
+    {
+      "abcId": "638035655997",
+      "debId": "052501980394",
+      "studentName": "MANWAR HARSHAD NANDU",
+      "dateOfBirth": "21\/11\/2005",
+      "mobileNumber": "9322522354"
+    },
+    {
+      "abcId": "104743025180",
+      "debId": "052501980209",
+      "studentName": "Awais Khan Nawaz Khan",
+      "dateOfBirth": "21\/11\/2001",
+      "mobileNumber": "8888199083"
+    },
+    {
+      "abcId": "621622961093",
+      "debId": "052501984216",
+      "studentName": "Gaurav Pravin Pendharkar",
+      "dateOfBirth": "27\/07\/2002",
+      "mobileNumber": "7249491756"
+    },
+    {
+      "abcId": "549665760046",
+      "debId": "052501984213",
+      "studentName": "Aarti Madan Wankhade",
+      "dateOfBirth": "08\/08\/2002",
+      "mobileNumber": "8698082002"
+    },
+    {
+      "abcId": "609362658976",
+      "debId": "052501984202",
+      "studentName": "Usha Dnyandeo Gawai",
+      "dateOfBirth": "31\/01\/1975",
+      "mobileNumber": "9922182053"
+    },
+     {
+      "abcId": "395095249854",
+      "debId": "052501984194",
+      "studentName": "Ashish Tukaram Mardane",
+      "dateOfBirth": "25\/05\/1999",
+      "mobileNumber": "7057607105"
+    },
+    {
+      "abcId": "236302264380",
+      "debId": "052501980390",
+      "studentName": "MOHD FAIZAN MOHD WAJID",
+      "dateOfBirth": "10\/02\/2004",
+      "mobileNumber": "7219683839"
+    },
+    {
       "abcId": "184615892510",
       "debId": "052501984166",
       "studentName": "Sachin Nagorao Bhagat",
@@ -800,7 +870,8 @@ export async function GET() {
       "abcId": "591560995996",
       "debId": "052501980236",
       "studentName": "Ajay Pramod Hanawante",
-      "dateOfBirth": "03\/11\/2004"
+      "dateOfBirth": "03\/11\/2004",
+      "mobileNumber": "9421630636"
     },
     {
       "abcId": "809766173678",
@@ -1018,7 +1089,8 @@ export async function GET() {
       "abcId": "186040543568",
       "debId": "052501980206",
       "studentName": "Aminoddin Alimoddin Sheikh",
-      "dateOfBirth": "18\/10\/1996"
+      "dateOfBirth": "18\/10\/1996",
+      "mobileNumber": "8888173265"
     },
     {
       "abcId": "842767250487",
