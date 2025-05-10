@@ -11,6 +11,13 @@ export async function GET() {
       "dateOfBirth": "13\/08\/2002",
       "mobileNumber": ""
     },
+     {
+      "abcId": "265940176168",
+      "debId": "052501983387",
+      "studentName": "Ram Mahadev Kavhar",
+      "dateOfBirth": "27\/04\/1999",
+      "mobileNumber": "9112471025"
+    },
     {
       "abcId": "442079988853",
       "debId": "052501980418",
