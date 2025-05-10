@@ -621,7 +621,8 @@ export async function GET() {
       "abcId": "542845417316",
       "debId": "052501980342",
       "studentName": "Saurabh Arun Chambhare",
-      "dateOfBirth": "22\/11\/2001"
+      "dateOfBirth": "22\/11\/2001",
+      "mobileNumber": "7028651475"
     },
     {
       "abcId": "750866436812",
@@ -867,7 +868,8 @@ export async function GET() {
       "abcId": "125277324500",
       "debId": "052501980190",
       "studentName": "Pankaj Shamrao Ingole",
-      "dateOfBirth": "26\/06\/1988"
+      "dateOfBirth": "26\/06\/1988",
+      "mobileNumber": "9970242220"
     },
     {
       "abcId": "834805712287",
@@ -891,7 +893,8 @@ export async function GET() {
       "abcId": "396278286872",
       "debId": "052501980194",
       "studentName": "Yogesh Vijay Chavhan",
-      "dateOfBirth": "03\/07\/2003"
+      "dateOfBirth": "03\/07\/2003",
+      "mobileNumber": "9022889349"
     },
     {
       "abcId": "289262406550",
