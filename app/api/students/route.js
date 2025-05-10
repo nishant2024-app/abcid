@@ -5,11 +5,11 @@ export async function GET() {
 
   const students = [
     {
-      "abcId": "896618713118",
-      "debId": "052501980417",
-      "studentName": "Tejraj Manohar Satpute",
-      "dateOfBirth": "13\/08\/2002",
-      "mobileNumber": ""
+      "abcId": "786294109974",
+      "debId": "052501984049",
+      "studentName": "Shrihari Rameshwar Fuke",
+      "dateOfBirth": "12\/08\/2002",
+      "mobileNumber": "9356349833"
     },
     {
       "abcId": "971633689896",
@@ -622,7 +622,8 @@ export async function GET() {
       "abcId": "997270121481",
       "debId": "102400510659",
       "studentName": "Atharva Pramod Daware",
-      "dateOfBirth": "14\/10\/2000"
+      "dateOfBirth": "14\/10\/2000",
+      "mobileNumber": "9112374100"
     },
     {
       "abcId": "303562254926",
