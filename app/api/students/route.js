@@ -1563,7 +1563,8 @@ export async function GET() {
       "abcId": "476733003260",
       "debId": "052501980169",
       "studentName": "Bhagvan Manik Vavge",
-      "dateOfBirth": "09\/10\/2004"
+      "dateOfBirth": "09\/10\/2004",
+      "mobileNumber": "9356483501"
     },
     {
       "abcId": "152736108242",
