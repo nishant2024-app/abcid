@@ -481,7 +481,8 @@ export async function GET() {
       "abcId": "162307144052",
       "debId": "052501980377",
       "studentName": "Shital Satish Katekar",
-      "dateOfBirth": "09\/08\/1996"
+      "dateOfBirth": "09\/08\/1996",
+      "mobileNumber": "9373236535"
     },
     {
       "abcId": "733207869168",
@@ -1093,7 +1094,8 @@ export async function GET() {
       "abcId": "117379030283",
       "debId": "052501980224",
       "studentName": "Aachal Manoj Ambilkar",
-      "dateOfBirth": "25\/11\/2004"
+      "dateOfBirth": "25\/11\/2004",
+      "mobileNumber": "8010340066"
     },
     {
       "abcId": "412717894470",
