@@ -12,11 +12,19 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "777856952050",
+      "debId": "052501990251",
+      "studentName": "SHEKH REHAN SHEKH SHAKIL",
+      "dateOfBirth": "20\/08\/2006"
+    },
+    {
       "abcId": "594439868371",
       "debId": "052501990222",
       "studentName": "Shekh Sameer Shekh Shakil",
-      "dateOfBirth": "01\/01\/1997"
+      "dateOfBirth": "01\/01\/1997",
+      "mobileNumber": "8421397313"
     },
+    
     {
       "abcId": "401258989476",
       "debId": "052501989565",
