@@ -16,6 +16,7 @@ export async function GET() {
       "debId": "052501989338",
       "studentName": "Sakshi Praful Doke",
       "dateOfBirth": "27\/10\/2004",
+      "mobileNumber": "9765634924"
     },
     {
       "abcId": "347559064141",
