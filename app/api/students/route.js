@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "895316321901",
+      "debId": "052501989504",
+      "studentName": "Ritesh Mahadeo Bhagat",
+      "dateOfBirth": "11\/11\/1992",
+      "mobileNumber": "8080306438"
+    },
+    {
       "abcId": "294393788705",
       "debId": "052501979925",
       "studentName": "Om Madhukar Ambhore",
@@ -1415,7 +1422,8 @@ export async function GET() {
       "abcId": "967582841934",
       "debId": "052501980109",
       "studentName": "Avirat Sangesh Khade",
-      "dateOfBirth": "11\/08\/2003"
+      "dateOfBirth": "11\/08\/2003",
+      "mobileNumber": "9579230397"
     },
     {
       "abcId": "662543021167",
