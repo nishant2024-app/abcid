@@ -1762,12 +1762,6 @@ export async function GET() {
       "dateOfBirth": "26\/04\/2005"
     },
     {
-      "abcId": "294393788705",
-      "debId": "052501979925",
-      "studentName": "Om Madhukar Ambhore",
-      "dateOfBirth": "22\/07\/2006"
-    },
-    {
       "abcId": "250499005860",
       "debId": "052501979892",
       "studentName": "Shivam Gulab Tayade",
