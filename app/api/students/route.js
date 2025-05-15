@@ -11,6 +11,48 @@ export async function GET() {
       "dateOfBirth": "12\/08\/2002",
       "mobileNumber": "9356349833"
     },
+     {
+      "abcId": "433387255106",
+      "debId": "052501989458",
+      "studentName": "Shekh Naved Shekh Rashid",
+      "dateOfBirth": "29\/03\/1998",
+      "mobileNumber": "8600700914"
+    },
+     {
+      "abcId": "465411025536",
+      "debId": "052501980166",
+      "studentName": "Bhavesh Pundalik Ambekar",
+      "dateOfBirth": "12\/06\/2005",
+      "mobileNumber": "8767680453"
+    },
+    {
+      "abcId": "501152711855",
+      "debId": "052501980421",
+      "studentName": "Sham Prakash Walale",
+      "dateOfBirth": "22\/02\/1992",
+      "mobileNumber": "8999762844"
+    },
+    {
+      "abcId": "606376011109",
+      "debId": "052501989427",
+      "studentName": "Puja Prakash Warghat",
+      "dateOfBirth": "01\/01\/1992",
+      "mobileNumber": "9226027086"
+    },
+    {
+      "abcId": "918590672730",
+      "debId": "052501989417",
+      "studentName": "Gaurav Mulchand Pawar",
+      "dateOfBirth": "01\/01\/2003",
+      "mobileNumber": "9324819185"
+    },
+    {
+      "abcId": "545555586591",
+      "debId": "052501989395",
+      "studentName": "Samir Kanhaiya Garve",
+      "dateOfBirth": "10\/07\/2006",
+      "mobileNumber": "7741965286"
+    },
     {
       "abcId": "803631068695",
       "debId": "052501989338",
@@ -169,12 +211,6 @@ export async function GET() {
       "debId": "052501980419",
       "studentName": "PRITI YUVRAJ RATHOD",
       "dateOfBirth": "05\/01\/2002"
-    },
-    {
-      "abcId": "501152711855",
-      "debId": "052501980421",
-      "studentName": "Sham Prakash Walale",
-      "dateOfBirth": "22\/02\/1992"
     },
     {
       "abcId": "933061631745",
@@ -392,12 +428,6 @@ export async function GET() {
       "debId": "052501980419",
       "studentName": "PRITI YUVRAJ RATHOD",
       "dateOfBirth": "05\/01\/2002"
-    },
-    {
-      "abcId": "501152711855",
-      "debId": "052501980421",
-      "studentName": "Sham Prakash Walale",
-      "dateOfBirth": "22\/02\/1992"
     },
     {
       "abcId": "933061631745",
@@ -1281,6 +1311,7 @@ export async function GET() {
       "debId": "052501980090",
       "studentName": "Hruday Premdas Chavhan",
       "dateOfBirth": "22\/02\/2006"
+      "mobileNumber": "8010159598"
     },
     {
       "abcId": "991004428092",
@@ -1625,12 +1656,6 @@ export async function GET() {
       "debId": "052501980178",
       "studentName": "Balraj Yuwraj Shrungare",
       "dateOfBirth": "03\/05\/1984"
-    },
-    {
-      "abcId": "465411025536",
-      "debId": "052501980166",
-      "studentName": "Bhavesh Pundalik Ambekar",
-      "dateOfBirth": "12\/06\/2005"
     },
     {
       "abcId": "861763394400",
