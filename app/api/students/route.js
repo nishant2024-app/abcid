@@ -15,7 +15,8 @@ export async function GET() {
       "abcId": "777856952050",
       "debId": "052501990251",
       "studentName": "SHEKH REHAN SHEKH SHAKIL",
-      "dateOfBirth": "20\/08\/2006"
+      "dateOfBirth": "20\/08\/2006",
+      "mobileNumber": "8421597920"
     },
     {
       "abcId": "594439868371",
