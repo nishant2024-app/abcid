@@ -12,6 +12,13 @@ export async function GET() {
       "mobileNumber": "9356349833"
     },
     {
+      "abcId": "401258989476",
+      "debId": "052501989565",
+      "studentName": "Yash Raju Gajbhar",
+      "dateOfBirth": "24\/06\/2005",
+      "mobileNumber": "9607823104"
+    },
+    {
       "abcId": "895316321901",
       "debId": "052501989504",
       "studentName": "Ritesh Mahadeo Bhagat",
@@ -478,13 +485,15 @@ export async function GET() {
       "abcId": "101624690860",
       "debId": "052501980410",
       "studentName": "Sneha Vinod Jadhav",
-      "dateOfBirth": "21\/07\/2003"
+      "dateOfBirth": "21\/07\/2003",
+      "mobileNumber": "9604318719"
     },
     {
       "abcId": "313727386405",
       "debId": "052501980411",
       "studentName": "Gauri Raju Dhole",
-      "dateOfBirth": "05\/08\/2003"
+      "dateOfBirth": "05\/08\/2003",
+      "mobileNumber": "9322947746"
     },
     {
       "abcId": "227376306270",
@@ -496,7 +505,8 @@ export async function GET() {
       "abcId": "666979683730",
       "debId": "052501980413",
       "studentName": "DERE ASHWINI ASHOK",
-      "dateOfBirth": "03\/04\/1997"
+      "dateOfBirth": "03\/04\/1997",
+      "mobileNumber": "9075627533"
     },
     {
       "abcId": "304994522710",
