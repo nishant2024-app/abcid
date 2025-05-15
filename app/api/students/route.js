@@ -1317,7 +1317,7 @@ export async function GET() {
       "abcId": "523072511690",
       "debId": "052501980090",
       "studentName": "Hruday Premdas Chavhan",
-      "dateOfBirth": "22\/02\/2006"
+      "dateOfBirth": "22\/02\/2006",
       "mobileNumber": "8010159598"
     },
     {
