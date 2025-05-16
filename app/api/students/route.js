@@ -1263,7 +1263,7 @@ export async function GET() {
     {
       "abcId": "117379030283",
       "debId": "052501980224",
-      "studentName": "Aachal Manoj Ambilkar",
+      "studentName": "Achal Manoj Ambilkar",
       "dateOfBirth": "25\/11\/2004",
       "mobileNumber": "8010340066"
     },
