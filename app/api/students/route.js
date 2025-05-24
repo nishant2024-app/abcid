@@ -41,7 +41,7 @@ export async function GET() {
     },
     {
       "abcId": "991004428092",
-      "debId": "0",
+      "debId": "052501980091",
       "studentName": "Sneha Vinod Khade",
       "dateOfBirth": "09\/12\/2003",
       "mobileNumber": "9322253058"
@@ -231,7 +231,7 @@ export async function GET() {
     },
     {
       "abcId": "531938940779",
-      "debId": "0",
+      "debId": "052501980451",
       "studentName": "Nishant Bhimrao Rathod",
       "dateOfBirth": "30\/06\/2005",
       "mobileNumber": "9325193264"
@@ -305,7 +305,7 @@ export async function GET() {
     },
     {
       "abcId": "612710850053",
-      "debId": "0",
+      "debId": "052501980451",
       "studentName": "Ranjita Mukeshsingh Raghuwanshi",
       "dateOfBirth": "10\/07\/1983"
     },
@@ -1355,7 +1355,7 @@ export async function GET() {
     },
     {
       "abcId": "807910546470",
-      "debId": "0",
+      "debId": "052501980024",
       "studentName": "CHARKHOD SHUBHAM MAHADEV",
       "dateOfBirth": "16\/02\/2007"
     },
@@ -1768,7 +1768,7 @@ export async function GET() {
     },
     {
       "abcId": "205880045889",
-      "debId": "0",
+      "debId": "052501979999",
       "studentName": "Sangdip Devanand Bhagat",
       "dateOfBirth": "15\/03\/2006"
     },
@@ -1799,7 +1799,7 @@ export async function GET() {
     },
     {
       "abcId": "864652494828",
-      "debId": "0",
+      "debId": "052501980004",
       "studentName": "LULE VISHAL GAJANAN",
       "dateOfBirth": "06\/01\/2007"
     },
@@ -1847,7 +1847,7 @@ export async function GET() {
     },
     {
       "abcId": "410292711074",
-      "debId": "0",
+      "debId": "052501980014",
       "studentName": "Kalyani Nitesh Bharduk",
       "dateOfBirth": "28\/09\/2003"
     },
@@ -1883,7 +1883,7 @@ export async function GET() {
     },
     {
       "abcId": "142856089011",
-      "debId": "0",
+      "debId": "052501980025",
       "studentName": "BHAGAT ANJALI VINOD",
       "dateOfBirth": "01\/05\/2006"
     },
@@ -1949,7 +1949,7 @@ export async function GET() {
     },
     {
       "abcId": "861763394400",
-      "debId": "0",
+      "debId": "052501980040",
       "studentName": "Om Nandakishor Lule",
       "dateOfBirth": "07\/12\/2005"
     },
