@@ -13,7 +13,7 @@ export async function GET() {
     },  */
     {
       "abcId": "466642934231",
-      "debId": "052501980155",
+      "debId": "0",
       "studentName": "Suvarna Pawan Date",
       "dateOfBirth": "07\/12\/1998",
       "mobileNumber": "9284356106"
@@ -41,7 +41,7 @@ export async function GET() {
     },
     {
       "abcId": "991004428092",
-      "debId": "052501980091",
+      "debId": "0",
       "studentName": "Sneha Vinod Khade",
       "dateOfBirth": "09\/12\/2003",
       "mobileNumber": "9322253058"
@@ -181,20 +181,6 @@ export async function GET() {
       "mobileNumber": "7741839747"
     },
     {
-      "abcId": "466642934231",
-      "debId": "052501984225",
-      "studentName": "Suvarna Pawan Date",
-      "dateOfBirth": "07\/12\/1998",
-      "mobileNumber": "9284356106"
-    },
-    {
-      "abcId": "638035655997",
-      "debId": "052501980394",
-      "studentName": "MANWAR HARSHAD NANDU",
-      "dateOfBirth": "21\/11\/2005",
-      "mobileNumber": "9322522354"
-    },
-    {
       "abcId": "104743025180",
       "debId": "052501980209",
       "studentName": "Awais Khan Nawaz Khan",
@@ -245,7 +231,7 @@ export async function GET() {
     },
     {
       "abcId": "531938940779",
-      "debId": "052501980451",
+      "debId": "0",
       "studentName": "Nishant Bhimrao Rathod",
       "dateOfBirth": "30\/06\/2005",
       "mobileNumber": "9325193264"
@@ -306,12 +292,6 @@ export async function GET() {
       "dateOfBirth": "08\/08\/1988"
     },
     {
-      "abcId": "496767227252",
-      "debId": "052501980419",
-      "studentName": "PRITI YUVRAJ RATHOD",
-      "dateOfBirth": "05\/01\/2002"
-    },
-    {
       "abcId": "933061631745",
       "debId": "052501980422",
       "studentName": "Anil Haribhau Pawar",
@@ -324,14 +304,8 @@ export async function GET() {
       "dateOfBirth": "13\/06\/1998"
     },
     {
-      "abcId": "228048551444",
-      "debId": "052501980425",
-      "studentName": "Jamuna Ramrao Rathod",
-      "dateOfBirth": "01\/05\/1998"
-    },
-    {
       "abcId": "612710850053",
-      "debId": "052501980426",
+      "debId": "0",
       "studentName": "Ranjita Mukeshsingh Raghuwanshi",
       "dateOfBirth": "10\/07\/1983"
     },
@@ -475,12 +449,6 @@ export async function GET() {
       "dateOfBirth": "09\/06\/1999"
     },
     {
-      "abcId": "531938940779",
-      "debId": "052501980451",
-      "studentName": "Nishant Bhimrao Rathod",
-      "dateOfBirth": "30\/06\/2005"
-    },
-    {
       "abcId": "493254275431",
       "debId": "052501980452",
       "studentName": "Ankit Dildar Chavhan",
@@ -517,40 +485,16 @@ export async function GET() {
       "dateOfBirth": "13\/08\/2002"
     },
     {
-      "abcId": "442079988853",
-      "debId": "052501980418",
-      "studentName": "Mubashshir Khan Quamer Khan",
-      "dateOfBirth": "08\/08\/1988"
-    },
-    {
       "abcId": "496767227252",
       "debId": "052501980419",
       "studentName": "PRITI YUVRAJ RATHOD",
       "dateOfBirth": "05\/01\/2002"
     },
     {
-      "abcId": "933061631745",
-      "debId": "052501980422",
-      "studentName": "Anil Haribhau Pawar",
-      "dateOfBirth": "16\/03\/1975"
-    },
-    {
-      "abcId": "693161438587",
-      "debId": "052501980423",
-      "studentName": "SHITAL VILAS BELKHEDE",
-      "dateOfBirth": "13\/06\/1998"
-    },
-    {
       "abcId": "228048551444",
       "debId": "052501980425",
       "studentName": "Jamuna Ramrao Rathod",
       "dateOfBirth": "01\/05\/1998"
-    },
-    {
-      "abcId": "612710850053",
-      "debId": "052501980426",
-      "studentName": "Ranjita Mukeshsingh Raghuwanshi",
-      "dateOfBirth": "10\/07\/1983"
     },
     {
       "abcId": "997319429928",
@@ -776,12 +720,6 @@ export async function GET() {
       "dateOfBirth": "14\/12\/2003"
     },
     {
-      "abcId": "236302264380",
-      "debId": "052501980390",
-      "studentName": "MOHD FAIZAN MOHD WAJID",
-      "dateOfBirth": "10\/02\/2004"
-    },
-    {
       "abcId": "874492424841",
       "debId": "052501980391",
       "studentName": "Kajal Bandu Raut",
@@ -939,12 +877,6 @@ export async function GET() {
       "debId": "052501980259",
       "studentName": "MOHOKAR PRASHANT PUNJAJI",
       "dateOfBirth": "02\/01\/1990"
-    },
-    {
-      "abcId": "539037446619",
-      "debId": "052501980260",
-      "studentName": "Mangesh Suresh Khandare",
-      "dateOfBirth": "12\/03\/1991"
     },
     {
       "abcId": "954445872145",
@@ -1245,12 +1177,6 @@ export async function GET() {
       "dateOfBirth": "24\/08\/2003"
     },
     {
-      "abcId": "104743025108",
-      "debId": "N\/A",
-      "studentName": "Error: DEB ID not found in response",
-      "dateOfBirth": "N\/A"
-    },
-    {
       "abcId": "262844249237",
       "debId": "052501980211",
       "studentName": "Ashish Ganesh Thakare",
@@ -1403,23 +1329,11 @@ export async function GET() {
       "dateOfBirth": "27\/09\/2006"
     },
     {
-      "abcId": "410292711074",
-      "debId": "052501980014",
-      "studentName": "Kalyani Nitesh Bharduk",
-      "dateOfBirth": "28\/09\/2003"
-    },
-    {
       "abcId": "523072511690",
       "debId": "052501980090",
       "studentName": "Hruday Premdas Chavhan",
       "dateOfBirth": "22\/02\/2006",
       "mobileNumber": "8010159598"
-    },
-    {
-      "abcId": "991004428092",
-      "debId": "052501980091",
-      "studentName": "KHADE SNEHA VINOD",
-      "dateOfBirth": "09\/12\/2003"
     },
     {
       "abcId": "388011661386",
@@ -1441,7 +1355,7 @@ export async function GET() {
     },
     {
       "abcId": "807910546470",
-      "debId": "052501980024",
+      "debId": "0",
       "studentName": "CHARKHOD SHUBHAM MAHADEV",
       "dateOfBirth": "16\/02\/2007"
     },
@@ -1542,12 +1456,6 @@ export async function GET() {
       "debId": "052501980115",
       "studentName": "Bhushan Vilas Jadhav",
       "dateOfBirth": "29\/07\/2004"
-    },
-    {
-      "abcId": "864652494828",
-      "debId": "052501980004",
-      "studentName": "LULE VISHAL GAJANAN",
-      "dateOfBirth": "06\/01\/2007"
     },
     {
       "abcId": "405051757450",
@@ -1761,28 +1669,10 @@ export async function GET() {
       "dateOfBirth": "03\/05\/1984"
     },
     {
-      "abcId": "861763394400",
-      "debId": "052501980040",
-      "studentName": "Om Nandakishor Lule",
-      "dateOfBirth": "07\/12\/2005"
-    },
-    {
-      "abcId": "205880045889",
-      "debId": "052501979999",
-      "studentName": "Sangdip Devanand Bhagat",
-      "dateOfBirth": "15\/03\/2006"
-    },
-    {
       "abcId": "846190434144",
       "debId": "052501980167",
       "studentName": "DHURVE PRATIK NARESH",
       "dateOfBirth": "30\/11\/1999"
-    },
-    {
-      "abcId": "142856089011",
-      "debId": "052501980025",
-      "studentName": "BHAGAT ANJALI VINOD",
-      "dateOfBirth": "01\/05\/2006"
     },
     {
       "abcId": "803570319719",
@@ -1877,14 +1767,8 @@ export async function GET() {
       "mobileNumber": "7218773324"
     },
     {
-      "abcId": "591879486448",
-      "debId": "052501979995",
-      "studentName": "Yash Gajanan Khirade",
-      "dateOfBirth": "03\/08\/2006"
-    },
-    {
       "abcId": "205880045889",
-      "debId": "052501979999",
+      "debId": "0",
       "studentName": "Sangdip Devanand Bhagat",
       "dateOfBirth": "15\/03\/2006"
     },
@@ -1915,7 +1799,7 @@ export async function GET() {
     },
     {
       "abcId": "864652494828",
-      "debId": "052501980004",
+      "debId": "0",
       "studentName": "LULE VISHAL GAJANAN",
       "dateOfBirth": "06\/01\/2007"
     },
@@ -1963,7 +1847,7 @@ export async function GET() {
     },
     {
       "abcId": "410292711074",
-      "debId": "052501980014",
+      "debId": "0",
       "studentName": "Kalyani Nitesh Bharduk",
       "dateOfBirth": "28\/09\/2003"
     },
@@ -1998,14 +1882,8 @@ export async function GET() {
       "dateOfBirth": "03\/10\/2005"
     },
     {
-      "abcId": "807910546470",
-      "debId": "052501980024",
-      "studentName": "CHARKHOD SHUBHAM MAHADEV",
-      "dateOfBirth": "16\/02\/2007"
-    },
-    {
       "abcId": "142856089011",
-      "debId": "052501980025",
+      "debId": "0",
       "studentName": "BHAGAT ANJALI VINOD",
       "dateOfBirth": "01\/05\/2006"
     },
@@ -2071,7 +1949,7 @@ export async function GET() {
     },
     {
       "abcId": "861763394400",
-      "debId": "052501980040",
+      "debId": "0",
       "studentName": "Om Nandakishor Lule",
       "dateOfBirth": "07\/12\/2005"
     },
