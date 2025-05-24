@@ -4,13 +4,13 @@ export async function GET() {
   await new Promise(resolve => setTimeout(resolve, 500));
 
   const students = [
-    // {
+    /* {
       "abcId": "587561873994",
       "debId": "408880617036",
       "studentName": "Suvarna Pawan Date",
       "dateOfBirth": "07\/12\/1998",
       "mobileNumber": "9284356106"
-    },  
+    },  */
     {
       "abcId": "466642934231",
       "debId": "052501984225",
