@@ -13,7 +13,7 @@ export async function GET() {
     },  */
     {
       "abcId": "466642934231",
-      "debId": "0",
+      "debId": "052501984225",
       "studentName": "Suvarna Pawan Date",
       "dateOfBirth": "07\/12\/1998",
       "mobileNumber": "9284356106"
