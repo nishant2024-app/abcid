@@ -4,6 +4,48 @@ export async function GET() {
   await new Promise(resolve => setTimeout(resolve, 500));
 
   const students = [
+    // {
+      "abcId": "587561873994",
+      "debId": "408880617036",
+      "studentName": "Suvarna Pawan Date",
+      "dateOfBirth": "07\/12\/1998",
+      "mobileNumber": "9284356106"
+    },  
+    {
+      "abcId": "466642934231",
+      "debId": "052501984225",
+      "studentName": "Suvarna Pawan Date",
+      "dateOfBirth": "07\/12\/1998",
+      "mobileNumber": "9284356106"
+    }, 
+    {
+      "abcId": "549650066657",
+      "debId": "052502005375",
+      "studentName": "Aryan Suresh Jadhav",
+      "dateOfBirth": "01\/01\/2007",
+      "mobileNumber": "8263094742"
+    },
+    {
+      "abcId": "189612602451",
+      "debId": "052502005373",
+      "studentName": "Prathamesh Suresh Dhote",
+      "dateOfBirth": "01\/01\/2005",
+      "mobileNumber": "7620437289"
+    },
+    {
+      "abcId": "125461437947",
+      "debId": "052501978374",
+      "studentName": "MESHRAM KUNAL GANESH",
+      "dateOfBirth": "20\/08\/2006",
+      "mobileNumber": "9579980176"
+    },
+    {
+      "abcId": "991004428092",
+      "debId": "052501980091",
+      "studentName": "Sneha Vinod Khade",
+      "dateOfBirth": "09\/12\/2003",
+      "mobileNumber": "9322253058"
+    },
     {
       "abcId": "857768258977",
       "debId": "052502005342",
